@@ -1,1 +1,2 @@
 # Gap Statistic Article
+The "bin" folder contains two R scripts: SquareCluster and Grid9Cluster. In the first, we applied tests on cages, with some of the results presented in the article as Figure 3. In Grid9Cluster, we tested the performance of the Gap Statistic by generating a grid displaying nine different scenarios in which the clusters gradually move farther apart. The resulting figure is presented in the article as Figure 4.
